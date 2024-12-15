@@ -20,8 +20,10 @@ module.exports = {
     library: {
       name: 'MediaConverter',
       type: 'umd',
+      umdNamedDefine: true,
       export: 'default',
     },
     globalObject: 'this',
   },
+  mode: 'production',
 };

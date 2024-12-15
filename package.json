@@ -1,6 +1,6 @@
 {
-	"name": "media-converter",
-	"version": "1.0.0",
+	"name": "base64-media-helper",
+	"version": "1.0.2",
 	"description": "Utility for converting media files to base64, URLs, and vice versa",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
@@ -9,12 +9,17 @@
 		"dev": "webpack serve --mode development",
 		"prepare": "npm run build"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/iamdineshbasnet/media-converter.git"
+	},
 	"keywords": [
 		"media",
 		"converter",
 		"base64",
 		"file",
-		"typescript"
+		"typescript",
+		"media-conversion"
 	],
 	"author": "Dinesh Basnet",
 	"license": "MIT",

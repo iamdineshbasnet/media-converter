@@ -40,4 +40,3 @@ const objectUrl = MediaConverter.fileToUrl(file);
 -   `base64ToFile(base64: string, filename: string, mimeType: string): File`
 -   `urlToFile(url: string, filename?: string): Promise<File>`
 -   `fileToUrl(file: File): string`
-    \*/

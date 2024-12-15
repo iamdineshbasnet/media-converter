@@ -1,6 +1,6 @@
 {
 	"name": "base64-media-helper",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Utility for converting media files to base64, URLs, and vice versa",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
